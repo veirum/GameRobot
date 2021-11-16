@@ -5,6 +5,10 @@ _Underviser: Jeppe Veirum Larsen_
 
 
 
+⚠️ **Fravær:** Der checkes fravær ved timens start, hvis man ikke er til stede ved registrering får man 100% fravær. Det ændres ikke igen. Hvis man af den ene eller anden grund skal forlade undervisningen, skal i orientere jeres lærer. Hvis i forlader undervisningen før den er afsluttet får i også fravær. I er velkommen til at skrive noter på fraværet i lectio.
+
+
+
 #### Ikoner
 
 For at gøre det lettere at finde rundt i dokument, bruger jeg forskellige ikoner, som er beskrevet nedenfor.
