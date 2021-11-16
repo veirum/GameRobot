@@ -43,7 +43,7 @@ Her er lidt forskellige links som i kommer til at bruge gennem alle 3 år af und
 
 *2 Moduler*
 
-Velkomst. Introduktion til Pro B. og gennemgang af læreplan samt en kort snak om hvad er programmering  og hvad er data og hvad kommer vil igennem i løbet af faget.
+Velkomst. Introduktion til Pro B. og gennemgang af læreplan samt en kort snak om hvad er programmering, hvad er data og hvad kommer vil igennem i løbet af faget.
 
 
 
@@ -54,4 +54,11 @@ Velkomst. Introduktion til Pro B. og gennemgang af læreplan samt en kort snak o
 - Opret en bruger på Github
 
 - Organiser jeres Logbog f.eks. i Noter, Opgaver og dokumentation
+- Se Intro, 1.1 og 1.2 i *The Coding Trains* Code! Playliste
+
+
+
+📚 **Materiale**
+
+🎥 [The Coding Train - Code!](https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
