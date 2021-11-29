@@ -39,7 +39,7 @@ Her er lidt forskellige links som i kommer til at bruge gennem alle 3 år af und
 
 
 
-## 16/11 - Velkommen til Programmeinrg B
+## 16/11 2021 - Velkommen til Programmeinrg B
 
 *2 Moduler*
 
@@ -62,3 +62,23 @@ Velkomst. Introduktion til Pro B. og gennemgang af læreplan samt en kort snak o
 
 🎥 [The Coding Train - Code!](https://www.youtube.com/watch?v=HerCR8bw_GE&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
+
+
+## 29/11 2021 - Forløbet Kalenderlys
+
+2 Moduler
+
+Vi starter i dag på forløbet Juledekoration hvor vi begynder at stufte lidt bekendskab med de mest basale koncepter inden for programmering.
+
+
+
+✏️ **Opgaver**
+
+- Begynd på forløbet
+- Opdater din logbog på OneNote()
+
+
+
+📚 **Materiale**
+
+[Link til beskrivelse af forløb og opgaven.](https://github.com/veirum/pro-c/blob/master/Forløb/Kaldenderlys.md)
