@@ -82,3 +82,11 @@ Vi starter i dag på forløbet Juledekoration hvor vi begynder at stufte lidt be
 📚 **Materiale**
 
 [Link til beskrivelse af forløb og opgaven.](https://github.com/veirum/pro-c/blob/master/Forløb/Kaldenderlys.md)
+
+## 7/1 2022 - Forløbet Generative Art
+ ![Generative art](https://images.squarespace-cdn.com/content/v1/5c12933f365f02733c923e4e/1628010988096-LN6S2JXID07LPGZ247QM/long-form-generative-art-banner.png)
+
+Vi starter her efter ferien med forløbet generative art. Forløbet består af en bunden opgave efterfulgt af en fri opgave med tilhørende fernisering af jeres computer genererede kunst.
+
+Følg dette link [10-Print](https://github.com/veirum/pro-c/blob/master/Forløb/10_print.md)
+
