@@ -90,3 +90,18 @@ Vi starter her efter ferien med forløbet generative art. Forløbet består af e
 
 Følg dette link [10-Print](https://github.com/veirum/pro-c/blob/master/Forløb/10_print.md)
 
+
+
+## 15/3 2022 - Forløbet Ur
+
+
+
+
+
+5/4
+
+
+
+
+
+29/4
