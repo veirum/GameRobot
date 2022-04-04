@@ -1,7 +1,7 @@
 # Undervisningsplan for Programmering B
 _Underviser: Jeppe Veirum Larsen_
 
-*Hold: Game Design / Robotteknologi*
+*Hold: Game Design / Robotteknologi* 2021 - 2024
 
 
 
