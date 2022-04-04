@@ -94,14 +94,50 @@ Følg dette link [10-Print](https://github.com/veirum/pro-c/blob/master/Forløb/
 
 ## 15/3 2022 - Forløbet Ur
 
+![time](./images/time.jpg)
 
 
 
+Tid er et vigtig aspekt ligemeget om man udvikler robotter, spil eller andre programmer. 
 
-5/4
 
 
+## 5/4 2022 Forløbet Kryds og bolle
+
+2
+
+
+
+27/4
+
+2
 
 
 
 29/4
+
+2
+
+
+
+2/5
+
+2
+
+
+
+11/5
+
+2
+
+
+
+20/5
+
+1
+
+
+
+24/5
+
+3
