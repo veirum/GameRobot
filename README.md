@@ -1,7 +1,7 @@
 # Undervisningsplan for Programmering B
 _Underviser: Jeppe Veirum Larsen_
 
-*Hold: Game Design / Robotteknologi*
+*Hold: Game Design / Robotteknologi* 2021 - 2024
 
 
 
@@ -102,9 +102,29 @@ Tid er et vigtig aspekt ligemeget om man udvikler robotter, spil eller andre pro
 
 
 
-## 5/4 2022 Forløbet Kryds og bolle
+## 5/4 2022 Bruger interaktion
 
-2
+*2 moduler*
+
+
+
+Nu har vi arbejdet med computeren og hvordan vi kan få output i forskellige former fra vores program gennem kalenderlys, kunst og ure.
+
+
+
+Det næste vi skal kigge lidt på er bruger interaktion og hvordan vi kan få vores programmer til at reagere på brugerens interaktion ved hjælp af diverse input ved hjælp af mus og keyboard. 
+
+
+
+
+
+### Mouse Interaction
+
+Hvor er musen?
+
+MouseX og Mouse Y
+
+
 
 
 
