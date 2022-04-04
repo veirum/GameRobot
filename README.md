@@ -64,9 +64,11 @@ Velkomst. Introduktion til Pro B. og gennemgang af læreplan samt en kort snak o
 
 
 
-## 29/11 2021 - Forløbet Kalenderlys
+## Forløbet Kalenderlys
 
-2 Moduler
+*5 Moduler*
+
+*Periode: 29/11 - 21/12 2021*
 
 Vi starter i dag på forløbet Juledekoration hvor vi begynder at stufte lidt bekendskab med de mest basale koncepter inden for programmering.
 
@@ -83,81 +85,93 @@ Vi starter i dag på forløbet Juledekoration hvor vi begynder at stufte lidt be
 
 [Link til beskrivelse af forløb og opgaven.](https://github.com/veirum/pro-c/blob/master/Forløb/Kaldenderlys.md)
 
-## 7/1 2022 - Forløbet Generative Art
+
+
+---
+
+
+
+## Forløbet Generative Art 
+
+*10 Moduler*
+
+*Periode: 7/1 - 1/3 2022*
+
  ![Generative art](https://images.squarespace-cdn.com/content/v1/5c12933f365f02733c923e4e/1628010988096-LN6S2JXID07LPGZ247QM/long-form-generative-art-banner.png)
 
 Vi starter her efter ferien med forløbet generative art. Forløbet består af en bunden opgave efterfulgt af en fri opgave med tilhørende fernisering af jeres computer genererede kunst.
 
-Følg dette link [10-Print](https://github.com/veirum/pro-c/blob/master/Forløb/10_print.md)
+
+
+✏️ For at se opgave skal i følge dette link [10-Print](https://github.com/veirum/pro-c/blob/master/Forløb/10_print.md)
 
 
 
-## 15/3 2022 - Forløbet Ur
+---
+
+
+
+## Forløbet Ur 
+
+*4 moduler*
+
+*Periode: 1/3  - 15/3 2022* 
 
 ![time](./images/time.jpg)
 
 
 
-Tid er et vigtig aspekt ligemeget om man udvikler robotter, spil eller andre programmer. 
+Tid er et vigtig aspekt ligemeget om man udvikler robotter, spil eller andre programmer.  I dette forløb skal vi lave et ur hvor vi bruger øver os i at bruge tiden fra computeren til at lave et valgfrit ur.
 
 
 
-## 5/4 2022 Bruger interaktion
-
-*2 moduler*
+---
 
 
 
-Nu har vi arbejdet med computeren og hvordan vi kan få output i forskellige former fra vores program gennem kalenderlys, kunst og ure.
+## Forløbet Kryds og bolle 
 
+*14 moduler*
 
+*Periode: 5/4 - 24/5 2022*
+
+<br>
+
+![](https://media.istockphoto.com/vectors/hand-drawn-tic-tac-toe-vector-id831401352?k=20&m=831401352&s=612x612&w=0&h=Irx_8EfP9jZlJeKAAbN5NP0a-LLW17ZTtoDnfu7zS9M=)
+
+<br>
 
 Det næste vi skal kigge lidt på er bruger interaktion og hvordan vi kan få vores programmer til at reagere på brugerens interaktion ved hjælp af diverse input ved hjælp af mus og keyboard. 
 
 
 
+Det først vi kigger på er brugerinteraktion med musen og for at udforske dette skal vi lave et lille spil som hedder kryds og bolle.
 
 
-### Mouse Interaction
+
+📚 Materiale
+
+
+
+LINK TIL KRYDS OG BOLLE
+
+
+
+### Brugerinteraktion
+
+Nu har vi arbejdet med computeren og hvordan vi kan få output i forskellige former fra vores program gennem kalenderlys, kunst og ure.
+
+
+
+
+
+
+
+
+
+### Musen
 
 Hvor er musen?
 
 MouseX og Mouse Y
 
-
-
-
-
-27/4
-
-2
-
-
-
-29/4
-
-2
-
-
-
-2/5
-
-2
-
-
-
-11/5
-
-2
-
-
-
-20/5
-
-1
-
-
-
-24/5
-
-3
