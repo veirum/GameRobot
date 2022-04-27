@@ -153,7 +153,7 @@ Det først vi kigger på er brugerinteraktion med musen og for at udforske dette
 
 
 
-[Link til beskrivelse af forløb kryds og bolle.](https://github.com/veirum/pro-c/blob/master/Forløb/Kryds%20og%20bolle.md)
+[Link til beskrivelse af forløb kryds og bolle.](https://github.com/veirum/pro-c/blob/master/Forløb/Kryds%20og%20bolle%20(pro%20c)/Kryds%20og%20bolle.md)
 
 
 
