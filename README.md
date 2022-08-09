@@ -36,9 +36,16 @@ Her er lidt forskellige links som i kommer til at bruge gennem alle 3 år af und
 > [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 >
 > [Github](https://github.com)
+## 2.g 2022 - 2023
+## 10/8 2022 - Velkommen tilbage
+
+*1 modul*
+Velkommen tilbage fra ferie. Snakke om årsprøve og årets plan.
+
+- Mini opgave med tilhørende micro synops.
 
 
-
+## 1.g 2021 - 2022
 ## 16/11 2021 - Velkommen til Programmeinrg B
 
 *2 Moduler*
