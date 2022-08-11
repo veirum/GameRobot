@@ -39,10 +39,13 @@ Her er lidt forskellige links som i kommer til at bruge gennem alle 3 år af und
 ## 2.g 2022 - 2023
 ## 10/8 2022 - Velkommen tilbage
 
-*1 modul*
-Velkommen tilbage fra ferie. Snakke om årsprøve og årets plan.
+![https://ackcent.com/wp-content/uploads/2018/07/cybersecurity-holiday-tips-1.jpeg](https://ackcent.com/wp-content/uploads/2018/07/cybersecurity-holiday-tips-1.jpeg)
 
-- Mini opgave med tilhørende micro synops.
+*1 modul*
+Modulet i dag kommer til at handle om ferie og snakke om årsprøve.
+
+- Kommende plan: Mini opgave med tilhørende micro synops.
+- Hvad driller og ønsker til repetition.
 
 
 ## 1.g 2021 - 2022
