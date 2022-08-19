@@ -57,7 +57,7 @@ Næste gang starter vi med et forløb hvor vi skal se på pixels i både billede
 
 Materialet kan findes her: 
 
-![code!](https://thecodingtrain.com/tracks/code-programming-with-p5-js)](https://thecodingtrain.com/tracks/code-programming-with-p5-js)
+[Code!](https://thecodingtrain.com/tracks/code-programming-with-p5-js)](https://thecodingtrain.com/tracks/code-programming-with-p5-js)
 
 
 
