@@ -47,6 +47,20 @@ Modulet i dag kommer til at handle om ferie og snakke om årsprøve.
 - Kommende plan: Mini opgave med tilhørende micro synops.
 - Hvad driller og ønsker til repetition.
 
+## 19/8 2022 - Video, video - VIDEO
+
+Vi tager en brushup inden opstarten af næste forløb. 
+
+De emner i er rustne på skal i se og følge, dvs skrive efter mens videoer køre sådan at det virker på jeres egen skærm. Jeg skal se eksemplerne næste gang.
+
+Næste gang starter vi med et forløb hvor vi skal se på pixels i både billeder og video.
+
+Materialet kan findes her: 
+
+![code!](https://thecodingtrain.com/tracks/code-programming-with-p5-js)
+
+
+
 
 ## 1.g 2021 - 2022
 ## 16/11 2021 - Velkommen til Programmeinrg B
