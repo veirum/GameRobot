@@ -49,6 +49,8 @@ Modulet i dag kommer til at handle om ferie og snakke om årsprøve.
 
 ## 19/8 2022 - Video, video - VIDEO
 
+2 moduler
+
 Vi tager en brushup inden opstarten af næste forløb. 
 
 De emner i er rustne på skal i se og følge, dvs skrive efter mens videoer køre sådan at det virker på jeres egen skærm. Jeg skal se eksemplerne næste gang.
@@ -57,12 +59,44 @@ Næste gang starter vi med et forløb hvor vi skal se på pixels i både billede
 
 Materialet kan findes her: 
 
-[Code!](https://thecodingtrain.com/tracks/code-programming-with-p5-js)](https://thecodingtrain.com/tracks/code-programming-with-p5-js)
+[Code!](https://thecodingtrain.com/tracks/code-programming-with-p5-js)
 
 
 
+## 24/8 2022 - Image Processing Basics
+
+2 moduler
+
+Dagens øvelse går ud på at arbejde med og forstå det såkaldte pixel array. I skal følge og udføre trin 1 - 6 under Basic Setup fra hjemmesiden Image Processing in p5.js, link til siden er neden under. Dernæst skal i gå videre til filtre.
+
+Der er intet nyt under solen, vi arbejder med Arrays, løkker og indbyggede funktioner fra p5.
+
+### ✏️ Opgave
+
+Til næste gang skal i:
+
+- Lav opgave 1-6 af Basic Setup
+
+- Lav opgave 1-3 af Filters 
+
+
+
+### 📚 Materiale
+
+[Basic Setup](https://idmnyu.github.io/p5.js-image/index.html)
+
+[Filters](https://idmnyu.github.io/p5.js-image/Filters/index.html)
+
+
+
+<br>
+
+-----------
+
+<br>
 
 ## 1.g 2021 - 2022
+
 ## 16/11 2021 - Velkommen til Programmeinrg B
 
 *2 Moduler*
