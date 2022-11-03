@@ -37,6 +37,7 @@ Her er lidt forskellige links som i kommer til at bruge gennem alle 3 år af und
 >
 > [Github](https://github.com)
 ## 2.g 2022 - 2023
+
 ## 10/8 2022 - Velkommen tilbage
 
 ![https://ackcent.com/wp-content/uploads/2018/07/cybersecurity-holiday-tips-1.jpeg](https://ackcent.com/wp-content/uploads/2018/07/cybersecurity-holiday-tips-1.jpeg)
@@ -90,6 +91,62 @@ Til næste gang skal i:
 
 
 <br>
+
+## 30/8 - 27/9 2022 - Image processing projekt
+
+9 Moduler
+
+I skal manipulere et billede eller video sådan at i ændre billedet og laver et nyt ved at bruge de værktøjer i kender. Det kan for eksempel være cirkler, firkanter, ascii. Kun fantasien sætter grænser.
+
+
+
+
+
+## 12/10 2022 - Klasser og Frogger
+
+*12 moduler*
+
+I dette forløb skal vi introduceres til klasser igennem det klassiske arkadespil fra 1981, Frogger. Frogger egner sig godt pga. sin opbygning med flere af de samme objekter som passer fint sammen med OOP.
+
+**Faglige mål**
+
+- bruge programmering til at undersøge et emne eller problemområde, med henblik på – via programmets funktion - at skabe ny indsigt eller til at løse et problem
+
+- behandle problemstillinger i samspil med andre fag
+- anvende avancerede konstruktioner i et programmeringssprog
+- arbejde inkrementelt og systematisk i programmeringsprocessen.
+
+
+
+✏️ **Opgaver**
+
+- Se og læs alt materialet.
+
+  <br>
+
+🔴 Lav spillet Frogger ved hjælp af materialet neden for, hvor der bruges OOP.
+
+🟡 Lav spillet frogger ved hjælp af materialet neden for, samt brug af følgende disposition.
+
+🟢 Følg tutorialen.
+
+
+
+> ### 📚 Materiale
+>
+> 📄 [What is frogger?](https://en.wikipedia.org/wiki/Frogger)
+>
+> 🎥 [Frogger gameplay](https://www.youtube.com/watch?v=l9fO-YuWPSk)
+>
+> 📄 [Objects and Classes](https://processing.org/tutorials/objects) Processing.org
+>
+> 🎥 [What is OOP?](https://www.youtube.com/watch?v=YcbcfkLzgvs)
+>
+> 🎥 [Defineing a class in processing PART I](https://www.youtube.com/watch?v=lmgcMPRa1qw)
+>
+> 🎥[Defining a class in processing PART II](https://www.youtube.com/watch?v=XwfOVFelLoo)
+
+
 
 -----------
 
@@ -221,15 +278,8 @@ Nu har vi arbejdet med computeren og hvordan vi kan få output i forskellige for
 
 
 
-
-
-
-
-
-
 ### Musen
 
 Hvor er musen?
 
 MouseX og Mouse Y
-
