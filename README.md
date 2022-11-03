@@ -116,7 +116,7 @@ I dette forløb skal vi introduceres til klasser igennem det klassiske arkadespi
 - anvende avancerede konstruktioner i et programmeringssprog
 - arbejde inkrementelt og systematisk i programmeringsprocessen.
 
-
+<br>
 
 ✏️ **Opgaver**
 
