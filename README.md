@@ -106,6 +106,12 @@ I skal manipulere et billede eller video sådan at i ændre billedet og laver et
 
 *12 moduler*
 
+<br>
+
+![](https://upload.wikimedia.org/wikipedia/en/c/cd/Frogger_game_arcade.png)
+
+<br>
+
 I dette forløb skal vi introduceres til klasser igennem det klassiske arkadespil fra 1981, Frogger. Frogger egner sig godt pga. sin opbygning med flere af de samme objekter som passer fint sammen med OOP.
 
 **Faglige mål**
